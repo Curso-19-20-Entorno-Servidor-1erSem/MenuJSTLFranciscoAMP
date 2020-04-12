@@ -22,7 +22,7 @@ import javax.servlet.http.HttpServletResponse;
 public class Formatos extends HttpServlet {
 
     
-    @Override
+
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
 String url = null;
